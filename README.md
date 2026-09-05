@@ -103,13 +103,9 @@ for(i=0;m[i]!=-1; i++
 printf("%c",m[i]);
 }
 
+## OUTPUT:
+<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/77fda201-4d11-4c74-b7d6-c91263c8b4f7" />
 
 
-
-
-
-
-SAMPLE OUTPUT:
-
-RESULT:
+## RESULT:
 Thus the encryption and decryption is implemented and the output is obtained and verified successfully
